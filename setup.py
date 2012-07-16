@@ -5,5 +5,5 @@ setup(name='Terry',
 	author='Allan Paolo Barazon',
 	author_email='titopao@gmail.com',
 	url='https://github.com/titopao/terry',
-	py_modules=['terry'],
+	packages=['terry/terry'],
 	)
