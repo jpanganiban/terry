@@ -1,4 +1,4 @@
 terry
 =====
 
-Because the original Monty Python troupe had 2 Terrys ;-)
+Because there are two Terrys in the Monty Python troupe ;-)
